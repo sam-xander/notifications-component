@@ -5,7 +5,7 @@
     "timestamp": "1m ago",
     "read": false,
     "name": "Mark Webber",
-    "image": "/images/avatar-mark-webber.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-mark-webber.webp",
     "post": "My first tournament today!"
   },
   {
@@ -13,7 +13,7 @@
     "type": "follow",
     "timestamp": "5m ago",
     "read": false,
-    "image": "/images/avatar-angela-gray.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-angela-gray.webp",
     "name": "Angela Gray"
   },
   {
@@ -21,7 +21,7 @@
     "type": "group-join",
     "timestamp": "1 day ago",
     "read": false,
-    "image": "/images/avatar-jacob-thompson.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-jacob-thompson.webp",
     "name": "Jacob Thompson",
     "group": "Chess Club"
   },
@@ -30,7 +30,7 @@
     "type": "message",
     "timestamp": "5 days ago",
     "read": true,
-    "image": "/images/avatar-rizky-hasanuddin.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-rizky-hasanuddin.webp",
     "name": "Rizky Hasanuddin",
     "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
   },
@@ -39,9 +39,9 @@
     "type": "picture-comment",
     "timestamp": "1 week ago",
     "read": true,
-    "image": "/images/avatar-kimberly-smith.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-kimberly-smith.webp",
     "name": "Kimberley Smith",
-    "picture": "/images/image-chess.webp"
+    "picture": "https://sam-xander.github.io/notifications-component/images/image-chess.webp"
   },
   {
     "id": 6,
@@ -49,7 +49,7 @@
     "timestamp": "2 weeks ago",
     "read": true,
     "name": "Nathan Peterson",
-    "image": "/images/avatar-nathan-peterson.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-nathan-peterson.webp",
     "post": "5 end-game strategies to increase your win rate"
   },
   {
@@ -57,7 +57,7 @@
     "type": "group-leave",
     "timestamp": "2 weeks ago",
     "read": true,
-    "image": "/images/avatar-anna-kim.webp",
+    "image": "https://sam-xander.github.io/notifications-component/images/avatar-anna-kim.webp",
     "name": "Anna Kim",
     "group": "Chess Club"
   }
